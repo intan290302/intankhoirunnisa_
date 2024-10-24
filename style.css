@@ -1,0 +1,31 @@
+body {
+	background-color: darkolivegreen;
+}
+table { font-family : sans - serif;
+		border-color: black;
+		margin-left: auto;
+		margin-right:auto;
+
+ }
+ h6 {
+ 	color : black;
+ }
+ img {
+ 	scale: width: 150px;height:150px;
+ 	display:block;
+ 	margin-left:auto;
+ 	margin-right: auto;
+ }
+ h1 {
+ 	font-family:wide latihan;
+ 	text-align:center;
+ }
+ button {
+ 	display:block ;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	padding: 5px 5px;
+ 	font-size :6px;
+ 	color: black;
+ 	background-color:#008000;
+ }
